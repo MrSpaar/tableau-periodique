@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Hydrog\u00e8ne",
+    "symbol": "H",
+    "atomic_num": "1",
+    "atomic_mass": "1.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-259.0\u00b0C",
+    "boiling_point": "-253.0\u00b0C",
+    "button": "b1"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "H\u00e9lium",
+    "symbol": "He",
+    "atomic_num": "2",
+    "atomic_mass": "4.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-272.0\u00b0C",
+    "boiling_point": "-269.0\u00b0C",
+    "button": "b2"
+  },
+  {
+    "name": "Lithium",
+    "symbol": "Li",
+    "atomic_num": "3",
+    "atomic_mass": "7.0",
+    "amb_state": "Solide",
+    "fusion_point": "180.0\u00b0C",
+    "boiling_point": "1347.0\u00b0C",
+    "button": "b3"
+  },
+  {
+    "name": "B\u00e9ryllium",
+    "symbol": "Be",
+    "atomic_num": "4",
+    "atomic_mass": "9.0",
+    "amb_state": "Solide",
+    "fusion_point": "1286.9\u00b0C",
+    "boiling_point": "2468.9\u00b0C",
+    "button": "b4"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "Bore",
+    "symbol": "B",
+    "atomic_num": "5",
+    "atomic_mass": "10.8",
+    "amb_state": "Solide",
+    "fusion_point": "2075.9\u00b0C",
+    "boiling_point": "3926.9\u00b0C",
+    "button": "b5"
+  },
+  {
+    "name": "Carbone",
+    "symbol": "C",
+    "atomic_num": "6",
+    "atomic_mass": "12.0",
+    "amb_state": "Solide",
+    "fusion_point": "3500.0\u00b0C",
+    "boiling_point": "4827.0\u00b0C",
+    "button": "b6"
+  },
+  {
+    "name": "Azote",
+    "symbol": "N",
+    "atomic_num": "7",
+    "atomic_mass": "14.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-210.0\u00b0C",
+    "boiling_point": "-196.0\u00b0C",
+    "button": "b7"
+  },
+  {
+    "name": "Oxyg\u00e8ne",
+    "symbol": "O",
+    "atomic_num": "8",
+    "atomic_mass": "16.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-218.0\u00b0C",
+    "boiling_point": "-183.0\u00b0C",
+    "button": "b8"
+  },
+  {
+    "name": "Fluor",
+    "symbol": "F",
+    "atomic_num": "9",
+    "atomic_mass": "19.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-220.0\u00b0C",
+    "boiling_point": "-188.0\u00b0C",
+    "button": "b9"
+  },
+  {
+    "name": "Neon",
+    "symbol": "Ne",
+    "atomic_num": "10",
+    "atomic_mass": "20.2",
+    "amb_state": "Gazeux",
+    "fusion_point": "-249.0\u00b0C",
+    "boiling_point": "-246.0\u00b0C",
+    "button": "b10"
+  },
+  {
+    "name": "Sodium",
+    "symbol": "Na",
+    "atomic_num": "11",
+    "atomic_mass": "23.0",
+    "amb_state": "Solide",
+    "fusion_point": "98.0\u00b0C",
+    "boiling_point": "883.0\u00b0C",
+    "button": "b11"
+  },
+  {
+    "name": "Magn\u00e9sium",
+    "symbol": "Mg",
+    "atomic_num": "12",
+    "atomic_mass": "24.3",
+    "amb_state": "Solide",
+    "fusion_point": "639.0\u00b0C",
+    "boiling_point": "1090.0\u00b0C",
+    "button": "b12"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "Aluminium",
+    "symbol": "Al",
+    "atomic_num": "13",
+    "atomic_mass": "27.0",
+    "amb_state": "Solide",
+    "fusion_point": "660.3\u00b0C",
+    "boiling_point": "2469.9\u00b0C",
+    "button": "b13"
+  },
+  {
+    "name": "Silicium",
+    "symbol": "Si",
+    "atomic_num": "14",
+    "atomic_mass": "28.0",
+    "amb_state": "Solide",
+    "fusion_point": "1410.0\u00b0C",
+    "boiling_point": "2355.0\u00b0C",
+    "button": "b14"
+  },
+  {
+    "name": "Phospore",
+    "symbol": "P",
+    "atomic_num": "15",
+    "atomic_mass": "31.0",
+    "amb_state": "Solide",
+    "fusion_point": "44.0\u00b0C",
+    "boiling_point": "280.0\u00b0C",
+    "button": "b15"
+  },
+  {
+    "name": "Souffre",
+    "symbol": "S",
+    "atomic_num": "16",
+    "atomic_mass": "32.0",
+    "amb_state": "Solide",
+    "fusion_point": "113.0\u00b0C",
+    "boiling_point": "445.0\u00b0C",
+    "button": "b16"
+  },
+  {
+    "name": "Chlore",
+    "symbol": "Cl",
+    "atomic_num": "17",
+    "atomic_mass": "35.4",
+    "amb_state": "Gazeux",
+    "fusion_point": "-101.0\u00b0C",
+    "boiling_point": "-35.0\u00b0C",
+    "button": "b17"
+  },
+  {
+    "name": "Argon",
+    "symbol": "Ar",
+    "atomic_num": "18",
+    "atomic_mass": "40.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-189.3\u00b0C",
+    "boiling_point": "-185.9\u00b0C",
+    "button": "b18"
+  },
+  {
+    "name": "Potassium",
+    "symbol": "K",
+    "atomic_num": "19",
+    "atomic_mass": "39.0",
+    "amb_state": "Solide",
+    "fusion_point": "64.0\u00b0C",
+    "boiling_point": "760.0\u00b0C",
+    "button": "b19"
+  },
+  {
+    "name": "Calcium",
+    "symbol": "Ca",
+    "atomic_num": "20",
+    "atomic_mass": "40.0",
+    "amb_state": "Solide",
+    "fusion_point": "839.0\u00b0C",
+    "boiling_point": "1484.0\u00b0C",
+    "button": "b20"
+  },
+  {
+    "name": "Scandium",
+    "symbol": "Sc",
+    "atomic_num": "21",
+    "atomic_mass": "45.0",
+    "amb_state": "Solide",
+    "fusion_point": "1539.0\u00b0C",
+    "boiling_point": "2832.0\u00b0C",
+    "button": "b21"
+  },
+  {
+    "name": "Titane",
+    "symbol": "Ti",
+    "atomic_num": "22",
+    "atomic_mass": "47.9",
+    "amb_state": "Solide",
+    "fusion_point": "1660.0\u00b0C",
+    "boiling_point": "3287.0\u00b0C",
+    "button": "b22"
+  },
+  {
+    "name": "Vanadium",
+    "symbol": "V",
+    "atomic_num": "23",
+    "atomic_mass": "51.0",
+    "amb_state": "Solide",
+    "fusion_point": "1890.0\u00b0C",
+    "boiling_point": "3380.0\u00b0C",
+    "button": "b23"
+  },
+  {
+    "name": "Chrome",
+    "symbol": "Cr",
+    "atomic_num": "24",
+    "atomic_mass": "52.0",
+    "amb_state": "Solide",
+    "fusion_point": "1857.0\u00b0C",
+    "boiling_point": "2672.0\u00b0C",
+    "button": "b24"
+  },
+  {
+    "name": "Mangan\u00e8se",
+    "symbol": "Mn",
+    "atomic_num": "25",
+    "atomic_mass": "55.0",
+    "amb_state": "Solide",
+    "fusion_point": "1245.0\u00b0C",
+    "boiling_point": "1962.0\u00b0C",
+    "button": "b25"
+  },
+  {
+    "name": "Fer",
+    "symbol": "Fe",
+    "atomic_num": "26",
+    "atomic_mass": "56.0",
+    "amb_state": "Solide",
+    "fusion_point": "1535.0\u00b0C",
+    "boiling_point": "2750.0\u00b0C",
+    "button": "b26"
+  },
+  {
+    "name": "Cobalt",
+    "symbol": "Co",
+    "atomic_num": "27",
+    "atomic_mass": "59.0",
+    "amb_state": "Solide",
+    "fusion_point": "1495.0\u00b0C",
+    "boiling_point": "2870.0\u00b0C",
+    "button": "b27"
+  },
+  {
+    "name": "Nickel",
+    "symbol": "Ni",
+    "atomic_num": "28",
+    "atomic_mass": "59.0",
+    "amb_state": "Solide",
+    "fusion_point": "1453.0\u00b0C",
+    "boiling_point": "2732.0\u00b0C",
+    "button": "b28"
+  },
+  {
+    "name": "Cuivre",
+    "symbol": "Cu",
+    "atomic_num": "29",
+    "atomic_mass": "63.5",
+    "amb_state": "Solide",
+    "fusion_point": "1083.0\u00b0C",
+    "boiling_point": "2567.0\u00b0C",
+    "button": "b29"
+  },
+  {
+    "name": "Zinc",
+    "symbol": "Zn",
+    "atomic_num": "30",
+    "atomic_mass": "65.4",
+    "amb_state": "Solide",
+    "fusion_point": "420.0\u00b0C",
+    "boiling_point": "907.0\u00b0C",
+    "button": "b30"
+  },
+  {
+    "name": "Gallium",
+    "symbol": "Ga",
+    "atomic_num": "31",
+    "atomic_mass": "69.7",
+    "amb_state": "Solide",
+    "fusion_point": "30.0\u00b0C",
+    "boiling_point": "2403.0\u00b0C",
+    "button": "b31"
+  },
+  {
+    "name": "Germanium",
+    "symbol": "Ge",
+    "atomic_num": "32",
+    "atomic_mass": "72.6",
+    "amb_state": "Solide",
+    "fusion_point": "937.0\u00b0C",
+    "boiling_point": "2830.0\u00b0C",
+    "button": "b32"
+  },
+  {
+    "name": "Arsenic",
+    "symbol": "As",
+    "atomic_num": "33",
+    "atomic_mass": "75.0",
+    "amb_state": "Solide",
+    "fusion_point": "614.85\u00b0C",
+    "boiling_point": "614.85\u00b0C",
+    "button": "b33"
+  },
+  {
+    "name": "S\u00e9l\u00e9nium",
+    "symbol": "Se",
+    "atomic_num": "34",
+    "atomic_mass": "79.0",
+    "amb_state": "Solide",
+    "fusion_point": "217.0\u00b0C",
+    "boiling_point": "685.0\u00b0C",
+    "button": "b34"
+  },
+  {
+    "name": "Brome",
+    "symbol": "Br",
+    "atomic_num": "35",
+    "atomic_mass": "80.0",
+    "amb_state": "Liquide",
+    "fusion_point": "-7.35\u00b0C",
+    "boiling_point": "59.0\u00b0C",
+    "button": "b35"
+  },
+  {
+    "name": "Krypton",
+    "symbol": "Kr",
+    "atomic_num": "36",
+    "atomic_mass": "83.8",
+    "amb_state": "Gazeux",
+    "fusion_point": "-157.0\u00b0C",
+    "boiling_point": "-153.0\u00b0C",
+    "button": "b36"
+  },
+  {
+    "name": "Rubidium",
+    "symbol": "Rb",
+    "atomic_num": "37",
+    "atomic_mass": "85.5",
+    "amb_state": "Solide",
+    "fusion_point": "39.0\u00b0C",
+    "boiling_point": "688.0\u00b0C",
+    "button": "b37"
+  },
+  {
+    "name": "Strontium",
+    "symbol": "Sr",
+    "atomic_num": "38",
+    "atomic_mass": "87.6",
+    "amb_state": "Solide",
+    "fusion_point": "769.0\u00b0C",
+    "boiling_point": "1416.2\u00b0C",
+    "button": "b38"
+  },
+  {
+    "name": "Yttrium",
+    "symbol": "Y",
+    "atomic_num": "39",
+    "atomic_mass": "89.0",
+    "amb_state": "Solide",
+    "fusion_point": "1523.0\u00b0C",
+    "boiling_point": "3337.0\u00b0C",
+    "button": "b39"
+  },
+  {
+    "name": "Zirconium",
+    "symbol": "Zr",
+    "atomic_num": "40",
+    "atomic_mass": "91.22",
+    "amb_state": "Solide",
+    "fusion_point": "1852.0\u00b0C",
+    "boiling_point": "4377.0\u00b0C",
+    "button": "b40"
+  },
+  {
+    "name": "Niobium",
+    "symbol": "Nb",
+    "atomic_num": "41",
+    "atomic_mass": "93.0",
+    "amb_state": "Solide",
+    "fusion_point": "2468.0\u00b0C",
+    "boiling_point": "4927.0\u00b0C",
+    "button": "b41"
+  },
+  {
+    "name": "Molybd\u00e8ne",
+    "symbol": "Mo",
+    "atomic_num": "42",
+    "atomic_mass": "96.0",
+    "amb_state": "Solide",
+    "fusion_point": "2617.0\u00b0C",
+    "boiling_point": "4612.0\u00b0C",
+    "button": "b42"
+  },
+  {
+    "name": "Techn\u00e9tium",
+    "symbol": "Tc",
+    "atomic_num": "43",
+    "atomic_mass": "98.0",
+    "amb_state": "Solide",
+    "fusion_point": "2200.0\u00b0C",
+    "boiling_point": "4877.0\u00b0C",
+    "button": "b43"
+  },
+  {
+    "name": "Ruth\u00e9nium",
+    "symbol": "Ru",
+    "atomic_num": "44",
+    "atomic_mass": "101.0",
+    "amb_state": "Solide",
+    "fusion_point": "2334.0\u00b0C",
+    "boiling_point": "3900.0\u00b0C",
+    "button": "b44"
+  },
+  {
+    "name": "Rhodium",
+    "symbol": "Rh",
+    "atomic_num": "45",
+    "atomic_mass": "103.0",
+    "amb_state": "Solide",
+    "fusion_point": "1966.0\u00b0C",
+    "boiling_point": "3727.0\u00b0C",
+    "button": "b45"
+  },
+  {
+    "name": "Palladium",
+    "symbol": "Pd",
+    "atomic_num": "46",
+    "atomic_mass": "106.4",
+    "amb_state": "Solide",
+    "fusion_point": "1552.0\u00b0C",
+    "boiling_point": "2927.0\u00b0C",
+    "button": "b46"
+  },
+  {
+    "name": "Argent",
+    "symbol": "Ag",
+    "atomic_num": "47",
+    "atomic_mass": "108.0",
+    "amb_state": "Solide",
+    "fusion_point": "962.0\u00b0C",
+    "boiling_point": "2212.0\u00b0C",
+    "button": "b47"
+  },
+  {
+    "name": "Cadmium",
+    "symbol": "Cd",
+    "atomic_num": "48",
+    "atomic_mass": "112.4",
+    "amb_state": "Solide",
+    "fusion_point": "321.0\u00b0C",
+    "boiling_point": "765.0\u00b0C",
+    "button": "b48"
+  },
+  {
+    "name": "Indium",
+    "symbol": "In",
+    "atomic_num": "49",
+    "atomic_mass": "115.0",
+    "amb_state": "Solide",
+    "fusion_point": "157.0\u00b0C",
+    "boiling_point": "2000.0\u00b0C",
+    "button": "b49"
+  },
+  {
+    "name": "Tin",
+    "symbol": "Sn",
+    "atomic_num": "50",
+    "atomic_mass": "118.8",
+    "amb_state": "Solide",
+    "fusion_point": "232.0\u00b0C",
+    "boiling_point": "2270.0\u00b0C",
+    "button": "b50"
+  },
+  {
+    "name": "Antimoine",
+    "symbol": "Sb",
+    "atomic_num": "51",
+    "atomic_mass": "121.8",
+    "amb_state": "Solide",
+    "fusion_point": "630.6\u00b0C",
+    "boiling_point": "1634.8\u00b0C",
+    "button": "b51"
+  },
+  {
+    "name": "Tellure",
+    "symbol": "Te",
+    "atomic_num": "52",
+    "atomic_mass": "127.6",
+    "amb_state": "Solide",
+    "fusion_point": "449.0\u00b0C",
+    "boiling_point": "990.0\u00b0C",
+    "button": "b52"
+  },
+  {
+    "name": "Iode",
+    "symbol": "I",
+    "atomic_num": "53",
+    "atomic_mass": "127.0",
+    "amb_state": "Solide",
+    "fusion_point": "114.0\u00b0C",
+    "boiling_point": "184.0\u00b0C",
+    "button": "b53"
+  },
+  {
+    "name": "X\u00e9non",
+    "symbol": "Xe",
+    "atomic_num": "54",
+    "atomic_mass": "131.3",
+    "amb_state": "Gazeux",
+    "fusion_point": "-112.0\u00b0C",
+    "boiling_point": "-108.0\u00b0C",
+    "button": "b54"
+  },
+  {
+    "name": "C\u00e9sium",
+    "symbol": "Cs",
+    "atomic_num": "55",
+    "atomic_mass": "133.0",
+    "amb_state": "Solide",
+    "fusion_point": "29.0\u00b0C",
+    "boiling_point": "679.0\u00b0C",
+    "button": "b55"
+  },
+  {
+    "name": "Baryum",
+    "symbol": "Ba",
+    "atomic_num": "56",
+    "atomic_mass": "137.3",
+    "amb_state": "Solide",
+    "fusion_point": "1340.3\u00b0C",
+    "boiling_point": "1844.9\u00b0C",
+    "button": "b56"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "Hafnium",
+    "symbol": "Hf",
+    "atomic_num": "72",
+    "atomic_mass": "178.5",
+    "amb_state": "Solide",
+    "fusion_point": "2150.0\u00b0C",
+    "boiling_point": "5400.0\u00b0C",
+    "button": "b72"
+  },
+  {
+    "name": "Tantale",
+    "symbol": "Ta",
+    "atomic_num": "73",
+    "atomic_mass": "181.0",
+    "amb_state": "Solide",
+    "fusion_point": "2996.0\u00b0C",
+    "boiling_point": "5425.0\u00b0C",
+    "button": "b73"
+  },
+  {
+    "name": "Tungst\u00e8ne",
+    "symbol": "W",
+    "atomic_num": "74",
+    "atomic_mass": "183.8",
+    "amb_state": "Solide",
+    "fusion_point": "3410.0\u00b0C",
+    "boiling_point": "5660.0\u00b0C",
+    "button": "b74"
+  },
+  {
+    "name": "Rh\u00e9nium",
+    "symbol": "Re",
+    "atomic_num": "75",
+    "atomic_mass": "186.2",
+    "amb_state": "Solide",
+    "fusion_point": "3180.0\u00b0C",
+    "boiling_point": "5627.0\u00b0C",
+    "button": "b75"
+  },
+  {
+    "name": "Osmium",
+    "symbol": "Os",
+    "atomic_num": "76",
+    "atomic_mass": "190.2",
+    "amb_state": "Solide",
+    "fusion_point": "3045.0\u00b0C",
+    "boiling_point": "5027.0\u00b0C",
+    "button": "b76"
+  },
+  {
+    "name": "Iridium",
+    "symbol": "Ir",
+    "atomic_num": "77",
+    "atomic_mass": "192.2",
+    "amb_state": "Solide",
+    "fusion_point": "2410.0\u00b0C",
+    "boiling_point": "4527.0\u00b0C",
+    "button": "b77"
+  },
+  {
+    "name": "Platine",
+    "symbol": "Pt",
+    "atomic_num": "78",
+    "atomic_mass": "195.1",
+    "amb_state": "Solide",
+    "fusion_point": "1772.0\u00b0C",
+    "boiling_point": "3827.0\u00b0C",
+    "button": "b78"
+  },
+  {
+    "name": "Or",
+    "symbol": "Au",
+    "atomic_num": "79",
+    "atomic_mass": "197.0",
+    "amb_state": "Solide",
+    "fusion_point": "1064.0\u00b0C",
+    "boiling_point": "2807.0\u00b0C",
+    "button": "b79"
+  },
+  {
+    "name": "Mercure",
+    "symbol": "Hg",
+    "atomic_num": "80",
+    "atomic_mass": "200.6",
+    "amb_state": "Liquide",
+    "fusion_point": "-39.0\u00b0C",
+    "boiling_point": "674.6\u00b0C",
+    "button": "b80"
+  },
+  {
+    "name": "Thallium",
+    "symbol": "Tl",
+    "atomic_num": "81",
+    "atomic_mass": "204.4",
+    "amb_state": "Solide",
+    "fusion_point": "303.0\u00b0C",
+    "boiling_point": "1457.0\u00b0C",
+    "button": "b81"
+  },
+  {
+    "name": "Plomb",
+    "symbol": "Pb",
+    "atomic_num": "82",
+    "atomic_mass": "207.2",
+    "amb_state": "Solide",
+    "fusion_point": "620.6\u00b0C",
+    "boiling_point": "1740.0\u00b0C",
+    "button": "b82"
+  },
+  {
+    "name": "Bismuth",
+    "symbol": "Bi",
+    "atomic_num": "83",
+    "atomic_mass": "209.0",
+    "amb_state": "Solide",
+    "fusion_point": "271.5\u00b0C",
+    "boiling_point": "1563.8\u00b0C",
+    "button": "b83"
+  },
+  {
+    "name": "Polonium",
+    "symbol": "Po",
+    "atomic_num": "84",
+    "atomic_mass": "209.0",
+    "amb_state": "Solide",
+    "fusion_point": "254.0\u00b0C",
+    "boiling_point": "962.0\u00b0C",
+    "button": "b84"
+  },
+  {
+    "name": "Astate",
+    "symbol": "At",
+    "atomic_num": "85",
+    "atomic_mass": "210.0",
+    "amb_state": "Solide",
+    "fusion_point": "301.9\u00b0C",
+    "boiling_point": "336.9\u00b0C",
+    "button": "b85"
+  },
+  {
+    "name": "Radon",
+    "symbol": "Rn",
+    "atomic_num": "86",
+    "atomic_mass": "222.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "-71.0\u00b0C",
+    "boiling_point": "-62.0\u00b0C",
+    "button": "b86"
+  },
+  {
+    "name": "Francium",
+    "symbol": "Fr",
+    "atomic_num": "87",
+    "atomic_mass": "223.0",
+    "amb_state": "Solide",
+    "fusion_point": "27.0\u00b0C",
+    "boiling_point": "677.0\u00b0C",
+    "button": "b87"
+  },
+  {
+    "name": "Radium",
+    "symbol": "Ra",
+    "atomic_num": "88",
+    "atomic_mass": "226.0",
+    "amb_state": "Solide",
+    "fusion_point": "700.0\u00b0C",
+    "boiling_point": "1737.0\u00b0C",
+    "button": "b88"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "Rutherfordium",
+    "symbol": "Rf",
+    "atomic_num": "104",
+    "atomic_mass": "261.0",
+    "amb_state": "Solide",
+    "fusion_point": "2100.0\u00b0C",
+    "boiling_point": "5500.0\u00b0C",
+    "button": "b104"
+  },
+  {
+    "name": "Dubnium",
+    "symbol": "Db",
+    "atomic_num": "105",
+    "atomic_mass": "262.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b105"
+  },
+  {
+    "name": "Seaborgium",
+    "symbol": "Sg",
+    "atomic_num": "106",
+    "atomic_mass": "266.0",
+    "amb_state": "Pr\u00e9sum\u00e9 solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b106"
+  },
+  {
+    "name": "Bohrium",
+    "symbol": "Bh",
+    "atomic_num": "107",
+    "atomic_mass": "270.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b107"
+  },
+  {
+    "name": "Hassium",
+    "symbol": "Hs",
+    "atomic_num": "108",
+    "atomic_mass": "270.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b108"
+  },
+  {
+    "name": "Meitn\u00e9rium",
+    "symbol": "Mt",
+    "atomic_num": "109",
+    "atomic_mass": "268.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b109"
+  },
+  {
+    "name": "Darmstadtium",
+    "symbol": "Ds",
+    "atomic_num": "110",
+    "atomic_mass": "281.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b110"
+  },
+  {
+    "name": "Roentgenium",
+    "symbol": "Rg",
+    "atomic_num": "111",
+    "atomic_mass": "281.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b111"
+  },
+  {
+    "name": "Copernicium",
+    "symbol": "Cn",
+    "atomic_num": "112",
+    "atomic_mass": "285.0",
+    "amb_state": "Gazeux",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "84.0\u00b0C",
+    "button": "b112"
+  },
+  {
+    "name": "Nihonium",
+    "symbol": "Nh",
+    "atomic_num": "113",
+    "atomic_mass": "286.0",
+    "amb_state": "Solide",
+    "fusion_point": "430.0\u00b0C",
+    "boiling_point": "1130.0\u00b0C",
+    "button": "b113"
+  },
+  {
+    "name": "Flerovium",
+    "symbol": "Fl",
+    "atomic_num": "114",
+    "atomic_mass": "289.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b114"
+  },
+  {
+    "name": "Moscovium",
+    "symbol": "Mc",
+    "atomic_num": "115",
+    "atomic_mass": "289.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b115"
+  },
+  {
+    "name": "Livermorium",
+    "symbol": "Lv",
+    "atomic_num": "116",
+    "atomic_mass": "293.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b116"
+  },
+  {
+    "name": "Tennessine",
+    "symbol": "Ts",
+    "atomic_num": "117",
+    "atomic_mass": "294.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b117"
+  },
+  {
+    "name": "Oganesson",
+    "symbol": "Og",
+    "atomic_num": "118",
+    "atomic_mass": "294.0",
+    "amb_state": "Solide",
+    "fusion_point": "?\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b118"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "Lanthane",
+    "symbol": "La",
+    "atomic_num": "57",
+    "atomic_mass": "139.0",
+    "amb_state": "Solide",
+    "fusion_point": "920.0\u00b0C",
+    "boiling_point": "3469.0\u00b0C",
+    "button": "b57"
+  },
+  {
+    "name": "C\u00e9rium",
+    "symbol": "Ce",
+    "atomic_num": "58",
+    "atomic_mass": "140.1",
+    "amb_state": "Solide",
+    "fusion_point": "795.0\u00b0C",
+    "boiling_point": "3257.0\u00b0C",
+    "button": "b58"
+  },
+  {
+    "name": "Pras\u00e9odyme",
+    "symbol": "Pr",
+    "atomic_num": "59",
+    "atomic_mass": "141.0",
+    "amb_state": "Solide",
+    "fusion_point": "935.0\u00b0C",
+    "boiling_point": "3127.0\u00b0C",
+    "button": "b59"
+  },
+  {
+    "name": "N\u00e9odyme",
+    "symbol": "Nd",
+    "atomic_num": "60",
+    "atomic_mass": "144.2",
+    "amb_state": "Solide",
+    "fusion_point": "1010.0\u00b0C",
+    "boiling_point": "3127.0\u00b0C",
+    "button": "b60"
+  },
+  {
+    "name": "Prom\u00e9thium",
+    "symbol": "Pm",
+    "atomic_num": "61",
+    "atomic_mass": "145.0",
+    "amb_state": "Solide",
+    "fusion_point": "1100.0\u00b0C",
+    "boiling_point": "3000.0\u00b0C",
+    "button": "b61"
+  },
+  {
+    "name": "Samarium",
+    "symbol": "Sm",
+    "atomic_num": "62",
+    "atomic_mass": "150.4",
+    "amb_state": "Solide",
+    "fusion_point": "1072.0\u00b0C",
+    "boiling_point": "1900.0\u00b0C",
+    "button": "b62"
+  },
+  {
+    "name": "Europium",
+    "symbol": "Eu",
+    "atomic_num": "63",
+    "atomic_mass": "152.0",
+    "amb_state": "Solide",
+    "fusion_point": "822.0\u00b0C",
+    "boiling_point": "1597.0\u00b0C",
+    "button": "b63"
+  },
+  {
+    "name": "Gadolinium",
+    "symbol": "Gd",
+    "atomic_num": "64",
+    "atomic_mass": "157.25",
+    "amb_state": "Solide",
+    "fusion_point": "1311.0\u00b0C",
+    "boiling_point": "3233.0\u00b0C",
+    "button": "b64"
+  },
+  {
+    "name": "Terbium",
+    "symbol": "Tb",
+    "atomic_num": "65",
+    "atomic_mass": "159.0",
+    "amb_state": "Solide",
+    "fusion_point": "2480.0\u00b0C",
+    "boiling_point": "3041.0\u00b0C",
+    "button": "b65"
+  },
+  {
+    "name": "Dysprosium",
+    "symbol": "Dy",
+    "atomic_num": "66",
+    "atomic_mass": "162.5",
+    "amb_state": "Solide",
+    "fusion_point": "1412.0\u00b0C",
+    "boiling_point": "2562.0\u00b0C",
+    "button": "b66"
+  },
+  {
+    "name": "Holmium",
+    "symbol": "Ho",
+    "atomic_num": "67",
+    "atomic_mass": "164.9",
+    "amb_state": "Solide",
+    "fusion_point": "1470.0\u00b0C",
+    "boiling_point": "2720.0\u00b0C",
+    "button": "b67"
+  },
+  {
+    "name": "Erbium",
+    "symbol": "Er",
+    "atomic_num": "68",
+    "atomic_mass": "167.3",
+    "amb_state": "Solide",
+    "fusion_point": "1522.0\u00b0C",
+    "boiling_point": "2510.0\u00b0C",
+    "button": "b68"
+  },
+  {
+    "name": "Thulium",
+    "symbol": "Tm",
+    "atomic_num": "69",
+    "atomic_mass": "169.0",
+    "amb_state": "Solide",
+    "fusion_point": "1545.0\u00b0C",
+    "boiling_point": "1727.0\u00b0C",
+    "button": "b69"
+  },
+  {
+    "name": "Ytterbium",
+    "symbol": "Yb",
+    "atomic_num": "70",
+    "atomic_mass": "173.0",
+    "amb_state": "Solide",
+    "fusion_point": "824.0\u00b0C",
+    "boiling_point": "1466.0\u00b0C",
+    "button": "b70"
+  },
+  {
+    "name": "Lut\u00e9cium",
+    "symbol": "Lu",
+    "atomic_num": "71",
+    "atomic_mass": "175.0",
+    "amb_state": "Solide",
+    "fusion_point": "1656.0\u00b0C",
+    "boiling_point": "3315.0\u00b0C",
+    "button": "b71"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "",
+    "symbol": "vide",
+    "atomic_num": "0",
+    "atomic_mass": "",
+    "amb_state": "",
+    "fusion_point": "\u00b0C",
+    "boiling_point": "\u00b0C",
+    "button": "b0"
+  },
+  {
+    "name": "Actinium",
+    "symbol": "Ac",
+    "atomic_num": "89",
+    "atomic_mass": "227.0",
+    "amb_state": "Solide",
+    "fusion_point": "1226.9\u00b0C",
+    "boiling_point": "3226.9\u00b0C",
+    "button": "b89"
+  },
+  {
+    "name": "Thorium",
+    "symbol": "Th",
+    "atomic_num": "90",
+    "atomic_mass": "232.0",
+    "amb_state": "Solide",
+    "fusion_point": "1750.0\u00b0C",
+    "boiling_point": "4790.0\u00b0C",
+    "button": "b90"
+  },
+  {
+    "name": "Protactinium",
+    "symbol": "Pa",
+    "atomic_num": "91",
+    "atomic_mass": "231.0",
+    "amb_state": "Solide",
+    "fusion_point": "1568.0\u00b0C",
+    "boiling_point": "4027.0\u00b0C",
+    "button": "b91"
+  },
+  {
+    "name": "Uranium",
+    "symbol": "U",
+    "atomic_num": "92",
+    "atomic_mass": "238.0",
+    "amb_state": "Solide",
+    "fusion_point": "2069.6\u00b0C",
+    "boiling_point": "6904.4\u00b0C",
+    "button": "b92"
+  },
+  {
+    "name": "Neptunium",
+    "symbol": "Np",
+    "atomic_num": "93",
+    "atomic_mass": "237.0",
+    "amb_state": "Solide",
+    "fusion_point": "640.0\u00b0C",
+    "boiling_point": "3902.0\u00b0C",
+    "button": "b93"
+  },
+  {
+    "name": "Plutonium",
+    "symbol": "Pu",
+    "atomic_num": "94",
+    "atomic_mass": "244.0",
+    "amb_state": "Solide",
+    "fusion_point": "640.0\u00b0C",
+    "boiling_point": "3235.0\u00b0C",
+    "button": "b94"
+  },
+  {
+    "name": "Am\u00e9ricium",
+    "symbol": "Am",
+    "atomic_num": "95",
+    "atomic_mass": "243.0",
+    "amb_state": "Solide",
+    "fusion_point": "1175.9\u00b0C",
+    "boiling_point": "2606.9\u00b0C",
+    "button": "b95"
+  },
+  {
+    "name": "Curium",
+    "symbol": "Cm",
+    "atomic_num": "96",
+    "atomic_mass": "247.0",
+    "amb_state": "Solide",
+    "fusion_point": "1340.0\u00b0C",
+    "boiling_point": "3110.0\u00b0C",
+    "button": "b96"
+  },
+  {
+    "name": "Berk\u00e9lium",
+    "symbol": "Bk",
+    "atomic_num": "97",
+    "atomic_mass": "247.0",
+    "amb_state": "Solide",
+    "fusion_point": "985.0\u00b0C",
+    "boiling_point": "2626.9\u00b0C",
+    "button": "b97"
+  },
+  {
+    "name": "Califormium",
+    "symbol": "Cf",
+    "atomic_num": "98",
+    "atomic_mass": "251.0",
+    "amb_state": "Solide",
+    "fusion_point": "900.0\u00b0C",
+    "boiling_point": "1472.0\u00b0C",
+    "button": "b98"
+  },
+  {
+    "name": "Einsteinium",
+    "symbol": "Es",
+    "atomic_num": "99",
+    "atomic_mass": "252.0",
+    "amb_state": "Solide",
+    "fusion_point": "860.0\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b99"
+  },
+  {
+    "name": "Fermium",
+    "symbol": "Fm",
+    "atomic_num": "100",
+    "atomic_mass": "257.0",
+    "amb_state": "Solide",
+    "fusion_point": "2780.6\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b100"
+  },
+  {
+    "name": "Mend\u00e9l\u00e9vium",
+    "symbol": "Md",
+    "atomic_num": "101",
+    "atomic_mass": "258.0",
+    "amb_state": "Solide",
+    "fusion_point": "827.0\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b101"
+  },
+  {
+    "name": "Nob\u00e9lium",
+    "symbol": "No",
+    "atomic_num": "102",
+    "atomic_mass": "259.0",
+    "amb_state": "Solide",
+    "fusion_point": "827.0\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b102"
+  },
+  {
+    "name": "Lawrencium",
+    "symbol": "Lr",
+    "atomic_num": "103",
+    "atomic_mass": "262.0",
+    "amb_state": "Solide",
+    "fusion_point": "1627.0\u00b0C",
+    "boiling_point": "?\u00b0C",
+    "button": "b103"
+  }
+]
